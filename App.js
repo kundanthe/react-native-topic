@@ -1,10 +1,11 @@
 
 import React from 'react';
 import Registration from './src/screens/Registration';
+import StaticFlateList from './src/screens/StaticFlateList';
 
 const App = () => {
     return <>
-    <Registration/>
+    <StaticFlateList/>
     </> 
 }
 export default App
